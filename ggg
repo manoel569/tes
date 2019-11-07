@@ -1,0 +1,25 @@
+
+#EXTINF:-1,AMC HD
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/amcbrasil_b7f5113f_2437fba77d1b2b50f915641a5a1550bae725ddd9.m3u8
+#EXTINF:-1,A&E
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_3ca86bf2ca86c9c4549d231382fdfc67e4a91b61/playlist.m3u8
+#EXTINF:-1,A Fazenda
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_392e29b7512c6fb6832e85b365c74ee68f76a695/playlist.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/fox_5a5b0f9b_90de092cfb62d8399270718689022d4f85a09970.m3u8
+#EXTINF:-1,Fox HD
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/fox_5a5b0f9b_90de092cfb62d8399270718689022d4f85a09970.m3u8
+#EXTINF:-1,Fox Premium 1
+http://edge-aws.aovivo.club/hls/s:94.177.242.28/foxpremium1_1bdf1a2f_6dfbb10619e4e22c8b22874707e8c2db659e9938.m3u8
+#EXTINF:-1,HBO Plus
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_6dae4b999b625f53173bff7a7a073bb249e6fd95.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/telecinepipoca_fd937516_858c85e5e0bc5237557677490bb27677fd47afd5.m3u8
+#EXTINF:-1,Cinemax
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax480p_22d200f8_fba79c0bb8b40ba653ee82a208546b91d3540ba6/playlist.m3u8
+#EXTINF:-1,Max
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/max_9f682df2_ba312c6d9ca028555e886ed806337172ac0f728a.m3u8
+#EXTINF:-1,Space
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/space_e6c3dd63_89022b9f385c4987d0cd6ca71e4d674e4c16fb8d.m3u8
+#EXTINF:-1,Record Tv
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
